@@ -74,11 +74,4 @@ Dev Dependencies | Description :clipboard:
 <p>If I had more time on this project I would improve the UI/UX of the website and create a backend internal tool for SolarCity sales reps to manage customers information from online individuals that indicate interest in Solar Panels.</p>
 <p>Additionally, I would consume the API I built to build a mobile app using REACT Native</p>
 
-<h2>Work I'm proud of</h2>
-<a href="https://play.google.com/store/apps/details?id=com.GamifyStudios.SuperHeroJump&hl=en">Mobile Game on play store</a>
-
-<a href="https://www.quora.com/profile/Talab-Hussein">>Check out my Quora profile to view my answers to questions in CS</a>
-
-<a href="www.talabhussein.me">Personal Website</a>
-
 </center>
